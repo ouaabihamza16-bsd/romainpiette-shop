@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://romainpiette.shop/sitemap.xml
